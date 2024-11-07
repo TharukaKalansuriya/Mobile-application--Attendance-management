@@ -1,2 +1,16 @@
-# Mobile-application--Attendance-management
-This is my first mobile application developed using Flutter as my framework and Dart as my language. The application includes inbuilt special QR code scanner , Login interfaces, Report generators, Areas for data display and user friendly UI s.
+# untitled3
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
